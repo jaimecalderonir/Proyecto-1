@@ -10,7 +10,15 @@ We will analyse issues such as obesity rates, protein consumption, fat consumpti
         <li>This document</li>
     </ul></p>
 <h2>Starting questions</h2>
-
+<p>
+        The questions we want to address in this study are the following:
+    </p>
+    <ul>
+        <li>Is there a direct relationship between longevity and nutrition?</li>
+        <li>Does this relationship also exist in our country with a Mediterranean diet?</li>
+        <li>In the case of Japan, whose diet is also known to be nutritious?</li>
+        <li>And in the USA, whose diet is known to be very high in fat?</li>
+    </ul>
 <h2>Methodology</h2>
 <h2>Conclusions</h2>
 <h2>Origin of the data</h2> 

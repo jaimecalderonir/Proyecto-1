@@ -1,7 +1,6 @@
 <h1>Longevity and nutrition: The case of Spain, Japan and the United States.</h1>
 <h2>Introduction</h2>
-<p>This project is part of the Ironhack boothcamp. It deals with the relationship between nutrition and longevity, focusing on three different countries on three different continents: We will talk about Spain, Japan and the United States. 
-We will analyse issues such as obesity rates, protein consumption, fat consumption... longevity.</p>
+<p>This project is part of the Ironhack boothcamp <a href=https://www.ironhack.com/> https://www.ironhack.com/ </a>. We want to explain the relationship between food supply, life expectancy and obesity. </p>
 <p>In this repository, you will find, in total, four documents:</p>
     <ul>
         <li>Python code</li>
@@ -33,3 +32,8 @@ We will analyse issues such as obesity rates, protein consumption, fat consumpti
             We have also used data from the <a href="https://www.fao.org/faostat/es/#data/FBS" target="_blank">FAO (Food and Agriculture Organisation of the United Nations)</a>.
         </li>
     </ul>
+<h2>Links</h2> 
+ <ul>
+        <li><a href=https://trello.com/invite/b/66976d5803fa1faf6220bcfa/ATTId2ade52c225ce3bedd220af20fd9a746E4B839FB/longevidad-y-alimentacion> Trello</a></li>
+       
+</ul>

@@ -9,9 +9,10 @@
 <p>This project is part of the Ironhack boothcamp <a href=https://www.ironhack.com/> https://www.ironhack.com/ </a>. We want to explain the relationship between food supply, life expectancy and obesity. </p>
 <p>In this repository, you will find, in total, four documents:</p>
     <ul>
-        <li>Python code</li>
-        <li>PDF presentation</li>
+        <li>Mortalidad</li>
+        <li>Productos</li>
         <li>This document</li>
+        <li>Esperanza de vida</li>
     </ul></p>
 <h2>Origin of the data</h2> 
     <p>
